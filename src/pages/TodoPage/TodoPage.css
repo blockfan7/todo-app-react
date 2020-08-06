@@ -1,0 +1,13 @@
+.todo-container {}
+
+
+.todo-delete {
+    color: rgb(241, 132, 132);
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.todo-delete:hover {
+    color: red;
+    font-size: 19px;
+}
